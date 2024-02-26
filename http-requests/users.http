@@ -1,0 +1,4 @@
+GET {{api_url}}/users
+Accept: application/json
+
+###

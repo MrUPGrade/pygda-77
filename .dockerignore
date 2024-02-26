@@ -1,0 +1,8 @@
+venv
+tests
+.pytest_cache
+http-requests
+.run
+.datasources
+.env.dev
+.env-dev.sh
